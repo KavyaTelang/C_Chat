@@ -4,7 +4,7 @@ A real-time multi-user chat application built in C using TCP sockets and POSIX t
 
 DEMO - 
 Server : 
-![WhatsApp Image 2025-11-21 at 4 48 55 AM](https://github.com/user-attachments/assets/0ac24afa-1e9b-43bf-bc50-0717b2b6339a)
+<img width="983" height="527" alt="image" src="https://github.com/user-attachments/assets/9d652f7b-f53c-4f7e-aac1-c709e3a10dfe" />
 
 Multi - Client View : 
 <img width="1118" height="481" alt="image" src="https://github.com/user-attachments/assets/fcf062b2-30f0-489b-bfe4-7724aad91c9b" />
